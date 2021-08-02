@@ -1,0 +1,3 @@
+$(function(){
+    $(text).show("text")
+});
