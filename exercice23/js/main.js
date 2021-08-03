@@ -1,5 +1,7 @@
 $(function(){
     $(".btn-success").click(function(){
-        $("#square").animate({left : "750px" , height : "200px"})
+        $("#square").animate({left : "800px" , height : "200px"})
         })
 })
+
+// pas fini ;
